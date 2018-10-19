@@ -3,8 +3,7 @@ Project-4 as part of EE455 - Digital Image Processing 1. This project considers 
 
 ![alt text](truck.gif "Truck")
 
-The tasks that were done in this project were- 
-
+The tasks that were done in this project were-  
 a) gamma correction for gamma>1 and gamma<1  
 b) contrast stretching  
 c) histogram equalization using optimal contrast stretching  
